@@ -16,4 +16,4 @@
 
 站长们在不断优化站点的同时，还要关注合规性问题。合法合规的内容管理和版权控制，能够确保平台长期稳定运营，避免因违法内容而面临法律诉讼。
 
-<span style="display:none;">[Canonical link]( ）</span>
+<span style="display:none;">[Canonical link]( https://github.com/bob20250710/ribenx08 ）</span>
